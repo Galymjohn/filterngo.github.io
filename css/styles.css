@@ -30,6 +30,12 @@ body{
   position: relative;
 }
 
+.navbar-toggler{
+  width: 6rem;
+  height: 3rem;
+  border-width: 10px;
+}
+
 .aboutTeam{
   font-size: 2rem;
 }
