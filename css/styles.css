@@ -20,8 +20,10 @@ body{
 
 
 /* test */
+
 .navAndPic {
-  background-image: url("4180x1840pxPic.png");
+  background: url(4180x1840pxPic.png) no-repeat right top fixed, -webkit-linear-gradient(left, #ba53a0, #fff);
+  /* background-image: url("4180x1840pxPic.png"); */
   background-color: #cccccc;
   height: 70rem;
   background-position: center;
