@@ -236,7 +236,7 @@ h1, h2, h4, h5 {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 100px;
+  font-size: 10rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -249,4 +249,7 @@ h1, h2, h4, h5 {
   background-image: -o-linear-gradient(top, #30E3CB, #2BC4ED);
   background-image: linear-gradient(to bottom, #30E3CB, #2BC4ED);
   text-decoration: none;
+}
+.contactInfo{
+  font-size: 1rem;
 }
