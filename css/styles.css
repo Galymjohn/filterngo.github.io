@@ -177,6 +177,10 @@ h1, h2, h4, h5 {
 .plan-type-container {
   padding-bottom: 2rem;
 }
+.founderPicture{
+  width: 10rem;
+  border-radius: 50%;
+}
 
 /* footer */
 
