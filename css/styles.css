@@ -17,7 +17,12 @@ body{
   line-height: 1.5;
   font-weight: 900;
 }
-
+/*projectpage*/
+.projectHeader{
+  font-size: 7rem;
+  text-align: center;
+  padding-top:20rem ;
+}
 
 /* test */
 
@@ -25,7 +30,7 @@ body{
   background: url(2090x920px.png) no-repeat right top fixed, -webkit-linear-gradient(left, #3ED6DE, #fff); /*#ba53a0*/
   /* background-image: url("4180x1840pxPic.png"); */
   background-color: #cccccc;
-  height: 80rem;
+  height: 50rem;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
