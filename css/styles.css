@@ -154,6 +154,15 @@ h1, h2, h4, h5 {
   margin: 20px;
 }
 
+/* Product */
+.SmartFilterPicture{
+  width: 50rem;
+  border-radius: 0%;
+}
+.benifits{
+
+}
+
 /* Pricing */
  .price-text {
    font-size: 2rem;
